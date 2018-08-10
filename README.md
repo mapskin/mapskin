@@ -5,7 +5,7 @@ for geospatial. Build efficient webmapping experiences using meaningful symbols 
 
 ## Geospatial Web Font
 
-[mapskin](http://mapsk.in) is the the visual language for geospatial.
+[mapskin](http://mapsk.in) is the visual language for geospatial.
 
 The mapskin geospatial web font aims at illustrating concepts and
 objects of modern cartography, geographic information systems, spatial
